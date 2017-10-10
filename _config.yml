@@ -9,10 +9,10 @@ baseurl: '/hustxiongkun.github.io'
 
 ## default date_format
 date_format: 
-  title: "%Y/%B/%d"
-  archive: "%b"
-  categories: "%b-%Y"
-  tag: "%b-%Y"
+  title: "%Y/%M/%D"
+  archive: "%M"
+  categories: "%M-%Y"
+  tag: "%M-%Y"
 # Language
 lan: "cn" 
 
