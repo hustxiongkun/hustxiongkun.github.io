@@ -1,4 +1,4 @@
-  
+
 # hustxiongkun.github.io
 
 2017-10-9 hustxiongkun 尝试创建自己的博客
@@ -22,3 +22,10 @@
   - test4.markdown
 - _site
 - index.html
+
+
+
+## 参考模板
+
+[http://jekyllthemes.org/themes/xixia/](http://jekyllthemes.org/themes/xixia/)
+
